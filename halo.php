@@ -3,3 +3,7 @@
 echo "Rangga";
 echo "2005020";
 echo "rangga@gmail.com";
+
+echo "Santi Aeri Anjani";
+echo "2005022";
+echo "santiaeri18@gmail.com";
